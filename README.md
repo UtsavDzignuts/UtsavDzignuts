@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pruthvi Darji</h1>
-<h3 align="center">Working as Technical Lead in Web technologies also providing solutions according to the problems facing in JS and open source tech.</h3>
+<h1 align="center">Hi 👋, I'm Utsav Darji</h1>
+<h3 align="center">Working as SDE in Web technologies also providing solutions according to the problems facing in JS and open source tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UtsavDzignuts&label=Profile%20views&color=0e75b6&style=flat" alt="UtsavDzignuts" /> </p>
 
